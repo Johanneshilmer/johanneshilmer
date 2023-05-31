@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a Python developer focused on backend web development with the Flask framework. I'm currently working on a small project to improve my skills. Though I'm still learning, I'm dedicated to becoming a skilled programmer. Thank you for visiting my Github page.
+I'm a web developer specializing in backend development with Python. Currently, I'm learning JavaScript to enhance my skills in frontend development.
+Thank you for visiting my Github page.
+Let's create amazing web applications together!
 
 
 ## 🌐 Socials:
