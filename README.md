@@ -1,10 +1,5 @@
 # 💫 About Me:
-👋 Welcome to my GitHub page! I'm a web developer on a journey to become a full-stack developer with a focus on JavaScript and Python. While I specialize in backend development, I'm currently expanding my skills in frontend development by diving deeper into JavaScript.
-
-With a passion for building robust web applications, I'm excited about the endless possibilities that arise from combining my expertise in backend development with newfound frontend capabilities. Together, let's craft amazing web experiences and push the boundaries of what's possible on the web!
-
-Thank you for stopping by, and I look forward to collaborating with you on exciting projects.
-
+👋 Welcome! I'm a web developer aspiring to become a full-stack expert in Python and JavaScript. While my focus is on backend development, I'm currently honing my frontend skills with JavaScript. Let's create awesome web applications together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://se.linkedin.com/in/johannes-hilmerson-9754b61b2) 
