@@ -39,7 +39,8 @@ Right now, I’m learning through:
 
 - 🌐 [GitHub](https://github.com/johanneshilmer)
 - 💼 [LinkedIn]([https://www.linkedin.com/in/din-länk-här](https://www.linkedin.com/in/johanneshilmerson/)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1331591" style='border:none;'></iframe>
+(<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1331591" style='border:none;'></iframe>)
+(<img src="https://tryhackme-badges.s3.amazonaws.com/Hilmer.png" alt="Your Image Badge" />)
 
 ### ✍️ Dev Quote
 "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." 
