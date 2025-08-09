@@ -38,7 +38,6 @@ Right now, I’m learning through:
 
 ## 🔗 Find Me Online
 
-- 🌐 [GitHub](https://github.com/johanneshilmer)
 - 💼 [LinkedIn](https://www.linkedin.com/in/johanneshilmerson/)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Hilmer.png" alt="Your Image Badge" />
