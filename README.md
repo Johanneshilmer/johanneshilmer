@@ -10,7 +10,8 @@ I’m a tech-savvy and security-driven person with a 2-year university degree in
 I use **Linux (EndeavourOS)** daily and I’m currently transitioning into **Cybersecurity**, aiming to become a **Junior SOC Analyst**.
 
 Right now, I’m learning through:
-- 🛡️ Google Cybersecurity Certificate *(in progress)*
+- 🛡️ Google Cybersecurity Certificate *(in progress)* After going for the CompTIA Security+
+- 🛡️ CompTIA Security+ **planning to do this in October or November**
 - 🧠 TryHackMe: Blue Team / SOC1 learning paths
 - 🧪 Hands-on labs in Wireshark, Suricata, and Splunk
 - ⚙️ Virtual environments using Kali Linux
