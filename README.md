@@ -30,7 +30,7 @@ Right now, I’m learning through:
 
 ## 🎯 Goals for 2025
 
-- ✅ Complete [Google Cybersecurity Certificate]
+- ✅ Complete [Google Cybersecurity Certificate](https://coursera.org/share/eaf785629284dbf82fc42e88db135cfa)
 - ✅ CompTIA Security+
 - 📄 Land my first role in **cybersecurity** as a **SOC Analyst**
 
