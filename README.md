@@ -40,7 +40,7 @@ Right now, I’m learning through:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/johanneshilmerson/)
 
-asd
+<img src="https://tryhackme-badges.s3.amazonaws.com/Hilmer.png" alt="Your Image Badge" />
 
 ### ✍️ Dev Quote
 "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." 
