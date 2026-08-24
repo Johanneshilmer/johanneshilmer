@@ -5,13 +5,13 @@
 I have a 2-year university degree in Informatics and am currently studying IoT & Embedded Development.
 
 ## 🛠️ Skills
-JavaScript · Python · Java · SQL
+JavaScript · SQL
 React · Node.js · Git
 Linux · Networking · Cybersecurity
 IoT & Embedded Systems
-🚀 Currently Learning
+🚀 Always Learning
 
-Java · Embedded Development · IoT · Cloud · Cybersecurity
+Embedded Development · IoT · Cloud · Cybersecurity
 
 ## 🔗 Connect
 
